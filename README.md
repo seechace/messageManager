@@ -1,4 +1,4 @@
-# studentManager-js
+# messageManager
 多功能信息管理平台，使用时请切换个人appkey。
 
 对js小项目的一次尝试，很久之前写的项目，记录一下成长
